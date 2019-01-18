@@ -2,7 +2,7 @@ package dog
 
 import (
 	"fmt"
-        "github.com/jfrog-solutiontest/food"
+        "github.com/jfrog-aparicio/food"
 )
 
 func AkitaPackageName () {
